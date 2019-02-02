@@ -3761,7 +3761,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#background}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3773,7 +3773,7 @@ public final class R {
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3788,7 +3788,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3803,7 +3803,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3816,7 +3816,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3829,7 +3829,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3842,7 +3842,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3855,7 +3855,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3868,7 +3868,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3881,7 +3881,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3893,7 +3893,7 @@ public final class R {
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3915,7 +3915,7 @@ public final class R {
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#divider}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3927,7 +3927,7 @@ public final class R {
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3940,7 +3940,7 @@ public final class R {
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#height}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3953,7 +3953,7 @@ public final class R {
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3963,7 +3963,7 @@ public final class R {
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3975,7 +3975,7 @@ public final class R {
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3987,7 +3987,7 @@ public final class R {
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#icon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3999,7 +3999,7 @@ public final class R {
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4011,7 +4011,7 @@ public final class R {
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4024,7 +4024,7 @@ public final class R {
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#logo}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4036,7 +4036,7 @@ public final class R {
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4054,7 +4054,7 @@ public final class R {
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4066,7 +4066,7 @@ public final class R {
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4079,7 +4079,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4091,7 +4091,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4101,7 +4101,7 @@ public final class R {
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4113,7 +4113,7 @@ public final class R {
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#title}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4123,7 +4123,7 @@ public final class R {
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4189,7 +4189,7 @@ public final class R {
         0x7f0300fc, 0x7f03012f
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#background}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4201,7 +4201,7 @@ public final class R {
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4216,7 +4216,7 @@ public final class R {
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4228,7 +4228,7 @@ public final class R {
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#height}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4241,7 +4241,7 @@ public final class R {
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4253,7 +4253,7 @@ public final class R {
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4281,7 +4281,7 @@ public final class R {
         0x7f030082, 0x7f03009b
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4293,7 +4293,7 @@ public final class R {
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4340,7 +4340,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4352,7 +4352,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4364,7 +4364,7 @@ public final class R {
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4376,7 +4376,7 @@ public final class R {
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4388,7 +4388,7 @@ public final class R {
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4434,7 +4434,7 @@ public final class R {
         0x7f0300f3, 0x7f0300f4
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4444,7 +4444,7 @@ public final class R {
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4470,7 +4470,7 @@ public final class R {
         0x7f0300ae, 0x7f0300af
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4490,7 +4490,7 @@ public final class R {
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4517,7 +4517,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4530,7 +4530,7 @@ public final class R {
      */
     public static final int AppBarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4571,7 +4571,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4615,7 +4615,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4627,7 +4627,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -4638,7 +4638,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4816,7 +4816,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5100,7 +5100,7 @@ public final class R {
         0x7f03013f, 0x7f030140, 0x7f030141
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5112,7 +5112,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5124,7 +5124,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5136,7 +5136,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5157,7 +5157,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5169,7 +5169,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5181,7 +5181,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5193,7 +5193,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5205,7 +5205,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5217,7 +5217,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5229,7 +5229,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5241,7 +5241,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5253,7 +5253,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5265,7 +5265,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5277,7 +5277,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5292,7 +5292,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5304,7 +5304,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5316,7 +5316,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5328,7 +5328,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5340,7 +5340,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5352,7 +5352,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5364,7 +5364,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5376,7 +5376,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5388,7 +5388,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5400,7 +5400,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5412,7 +5412,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5424,7 +5424,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5436,7 +5436,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5448,7 +5448,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5460,7 +5460,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5472,7 +5472,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5484,7 +5484,7 @@ public final class R {
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5496,7 +5496,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5506,7 +5506,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5518,7 +5518,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5552,7 +5552,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5564,7 +5564,7 @@ public final class R {
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5576,7 +5576,7 @@ public final class R {
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5588,7 +5588,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5600,7 +5600,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5612,7 +5612,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5624,7 +5624,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5636,7 +5636,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5648,7 +5648,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5660,7 +5660,7 @@ public final class R {
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5672,7 +5672,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5684,7 +5684,7 @@ public final class R {
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5695,7 +5695,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5706,7 +5706,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5717,7 +5717,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5728,7 +5728,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5739,7 +5739,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5750,7 +5750,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5761,7 +5761,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimary=54;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5772,7 +5772,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorPrimaryDark=55;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5783,7 +5783,7 @@ public final class R {
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=56;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5795,7 +5795,7 @@ public final class R {
      */
     public static final int AppCompatTheme_controlBackground=57;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5808,7 +5808,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogPreferredPadding=58;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5820,7 +5820,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dialogTheme=59;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5832,7 +5832,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerHorizontal=60;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5844,7 +5844,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dividerVertical=61;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5856,7 +5856,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropDownListViewStyle=62;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5869,7 +5869,7 @@ public final class R {
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=63;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5881,7 +5881,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextBackground=64;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5896,7 +5896,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextColor=65;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5908,7 +5908,7 @@ public final class R {
      */
     public static final int AppCompatTheme_editTextStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5920,7 +5920,7 @@ public final class R {
      */
     public static final int AppCompatTheme_homeAsUpIndicator=67;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5932,7 +5932,7 @@ public final class R {
      */
     public static final int AppCompatTheme_imageButtonStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5944,7 +5944,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5956,7 +5956,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listDividerAlertDialog=70;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5968,7 +5968,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listMenuViewStyle=71;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5980,7 +5980,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPopupWindowStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5993,7 +5993,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeight=73;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6006,7 +6006,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=74;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6019,7 +6019,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=75;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6032,7 +6032,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6045,7 +6045,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=77;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6057,7 +6057,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelBackground=78;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6069,7 +6069,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListTheme=79;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6082,7 +6082,7 @@ public final class R {
      */
     public static final int AppCompatTheme_panelMenuListWidth=80;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6094,7 +6094,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupMenuStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6106,7 +6106,7 @@ public final class R {
      */
     public static final int AppCompatTheme_popupWindowStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6118,7 +6118,7 @@ public final class R {
      */
     public static final int AppCompatTheme_radioButtonStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6130,7 +6130,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6142,7 +6142,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=85;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6154,7 +6154,7 @@ public final class R {
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=86;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6166,7 +6166,7 @@ public final class R {
      */
     public static final int AppCompatTheme_searchViewStyle=87;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6178,7 +6178,7 @@ public final class R {
      */
     public static final int AppCompatTheme_seekBarStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6190,7 +6190,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackground=89;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6202,7 +6202,7 @@ public final class R {
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=90;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6214,7 +6214,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=91;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6226,7 +6226,7 @@ public final class R {
      */
     public static final int AppCompatTheme_spinnerStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6238,7 +6238,7 @@ public final class R {
      */
     public static final int AppCompatTheme_switchStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6250,7 +6250,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=94;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6262,7 +6262,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItem=95;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6274,7 +6274,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=96;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6286,7 +6286,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=97;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6298,7 +6298,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=98;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6310,7 +6310,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=99;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6322,7 +6322,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=100;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6337,7 +6337,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=101;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6352,7 +6352,7 @@ public final class R {
      */
     public static final int AppCompatTheme_textColorSearchUrl=102;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6364,7 +6364,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=103;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6376,7 +6376,7 @@ public final class R {
      */
     public static final int AppCompatTheme_toolbarStyle=104;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6386,7 +6386,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBar=105;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6396,7 +6396,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionBarOverlay=106;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6406,7 +6406,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowActionModeOverlay=107;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6423,7 +6423,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=108;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6440,7 +6440,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=109;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6457,7 +6457,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=110;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6474,7 +6474,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=111;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6491,7 +6491,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6508,7 +6508,7 @@ public final class R {
      */
     public static final int AppCompatTheme_windowMinWidthMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6538,7 +6538,7 @@ public final class R {
         0x7f03009e, 0x7f03009f, 0x7f0300a2, 0x7f0300c0
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6550,7 +6550,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6561,7 +6561,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemIconTint=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6572,7 +6572,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemTextColor=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#menu}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6602,7 +6602,7 @@ public final class R {
         0x7f030032, 0x7f030034, 0x7f030035
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6612,7 +6612,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6633,7 +6633,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6657,7 +6657,7 @@ public final class R {
         0x7f030026
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6734,7 +6734,7 @@ public final class R {
      */
     public static final int CardView_android_minWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardBackgroundColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6745,7 +6745,7 @@ public final class R {
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardCornerRadius}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6758,7 +6758,7 @@ public final class R {
      */
     public static final int CardView_cardCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardElevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6771,7 +6771,7 @@ public final class R {
      */
     public static final int CardView_cardElevation=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardMaxElevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6784,7 +6784,7 @@ public final class R {
      */
     public static final int CardView_cardMaxElevation=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardPreventCornerOverlap}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6794,7 +6794,7 @@ public final class R {
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#cardUseCompatPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6804,7 +6804,7 @@ public final class R {
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6817,7 +6817,7 @@ public final class R {
      */
     public static final int CardView_contentPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentPaddingBottom}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6830,7 +6830,7 @@ public final class R {
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentPaddingLeft}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6843,7 +6843,7 @@ public final class R {
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentPaddingRight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6856,7 +6856,7 @@ public final class R {
      */
     public static final int CardView_contentPaddingRight=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentPaddingTop}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6932,7 +6932,7 @@ public final class R {
         0x7f0300a9, 0x7f0300aa
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6950,7 +6950,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -6959,7 +6959,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6984,7 +6984,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6996,7 +6996,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7007,7 +7007,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7032,7 +7032,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7045,7 +7045,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7058,7 +7058,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7071,7 +7071,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7084,7 +7084,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7097,7 +7097,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7109,7 +7109,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7118,7 +7118,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7131,7 +7131,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7142,7 +7142,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#title}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7152,7 +7152,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7162,7 +7162,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7192,7 +7192,7 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f030027
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -7251,7 +7251,7 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7262,7 +7262,7 @@ public final class R {
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7354,7 +7354,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7366,7 +7366,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7395,7 +7395,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -7405,7 +7405,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7428,7 +7428,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7450,7 +7450,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -7459,7 +7459,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7471,7 +7471,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7501,7 +7501,7 @@ public final class R {
         0x7f030038, 0x7f030039, 0x7f03011b
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7513,7 +7513,7 @@ public final class R {
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7525,7 +7525,7 @@ public final class R {
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7565,7 +7565,7 @@ public final class R {
         0x7f030078, 0x7f03008d, 0x7f0300ec, 0x7f03011e
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7578,7 +7578,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7591,7 +7591,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7604,7 +7604,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#color}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7615,7 +7615,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7628,7 +7628,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7641,7 +7641,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7651,7 +7651,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7707,7 +7707,7 @@ public final class R {
         0x7f030031
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7717,7 +7717,7 @@ public final class R {
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7728,7 +7728,7 @@ public final class R {
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7748,7 +7748,7 @@ public final class R {
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7761,7 +7761,7 @@ public final class R {
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7774,7 +7774,7 @@ public final class R {
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7792,7 +7792,7 @@ public final class R {
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7805,7 +7805,7 @@ public final class R {
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -7816,7 +7816,7 @@ public final class R {
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7886,7 +7886,7 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8106,7 +8106,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#divider}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8118,7 +8118,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8131,7 +8131,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8141,7 +8141,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8355,7 +8355,7 @@ public final class R {
         0x7f0300e7
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8367,7 +8367,7 @@ public final class R {
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -8377,7 +8377,7 @@ public final class R {
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -8529,7 +8529,7 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8668,7 +8668,7 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8678,7 +8678,7 @@ public final class R {
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8762,7 +8762,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8775,7 +8775,7 @@ public final class R {
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8787,7 +8787,7 @@ public final class R {
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8799,7 +8799,7 @@ public final class R {
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8810,7 +8810,7 @@ public final class R {
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8822,7 +8822,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -8833,7 +8833,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#menu}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8877,7 +8877,7 @@ public final class R {
         0x7f0300f2
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8914,7 +8914,7 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8984,7 +8984,7 @@ public final class R {
      */
     public static final int RecyclerView_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -8994,7 +8994,7 @@ public final class R {
      */
     public static final int RecyclerView_layoutManager=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9004,7 +9004,7 @@ public final class R {
      */
     public static final int RecyclerView_reverseLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -9013,7 +9013,7 @@ public final class R {
      */
     public static final int RecyclerView_spanCount=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9037,7 +9037,7 @@ public final class R {
         0x7f03009c
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9066,7 +9066,7 @@ public final class R {
         0x7f030033
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9230,7 +9230,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9242,7 +9242,7 @@ public final class R {
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9254,7 +9254,7 @@ public final class R {
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9264,7 +9264,7 @@ public final class R {
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9276,7 +9276,7 @@ public final class R {
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9286,7 +9286,7 @@ public final class R {
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#layout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9298,7 +9298,7 @@ public final class R {
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9310,7 +9310,7 @@ public final class R {
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9320,7 +9320,7 @@ public final class R {
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9332,7 +9332,7 @@ public final class R {
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9344,7 +9344,7 @@ public final class R {
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9356,7 +9356,7 @@ public final class R {
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9368,7 +9368,7 @@ public final class R {
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9411,7 +9411,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9424,7 +9424,7 @@ public final class R {
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9522,7 +9522,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9609,7 +9609,7 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#showText}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9619,7 +9619,7 @@ public final class R {
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9629,7 +9629,7 @@ public final class R {
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9642,7 +9642,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9655,7 +9655,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9667,7 +9667,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9680,7 +9680,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9691,7 +9691,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9712,7 +9712,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#track}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9724,7 +9724,7 @@ public final class R {
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9735,7 +9735,7 @@ public final class R {
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9855,7 +9855,7 @@ public final class R {
         0x7f03010e, 0x7f03010f, 0x7f030110, 0x7f030111
       };
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9867,7 +9867,7 @@ public final class R {
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9880,7 +9880,7 @@ public final class R {
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9897,7 +9897,7 @@ public final class R {
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9908,7 +9908,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9921,7 +9921,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9934,7 +9934,7 @@ public final class R {
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9947,7 +9947,7 @@ public final class R {
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9964,7 +9964,7 @@ public final class R {
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9977,7 +9977,7 @@ public final class R {
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9990,7 +9990,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10003,7 +10003,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10016,7 +10016,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10029,7 +10029,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10040,7 +10040,7 @@ public final class R {
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10052,7 +10052,7 @@ public final class R {
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10215,7 +10215,7 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10301,7 +10301,7 @@ public final class R {
      */
     public static final int TextInputLayout_android_textColorHint=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10311,7 +10311,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10320,7 +10320,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10332,7 +10332,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10344,7 +10344,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10354,7 +10354,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10366,7 +10366,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10376,7 +10376,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10386,7 +10386,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10398,7 +10398,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10408,7 +10408,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10420,7 +10420,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10430,7 +10430,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10441,7 +10441,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10580,7 +10580,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10597,7 +10597,7 @@ public final class R {
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10607,7 +10607,7 @@ public final class R {
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10619,7 +10619,7 @@ public final class R {
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10632,7 +10632,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10645,7 +10645,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10658,7 +10658,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10671,7 +10671,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10684,7 +10684,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10697,7 +10697,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#logo}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10709,7 +10709,7 @@ public final class R {
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10719,7 +10719,7 @@ public final class R {
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10732,7 +10732,7 @@ public final class R {
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10742,7 +10742,7 @@ public final class R {
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10754,7 +10754,7 @@ public final class R {
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10766,7 +10766,7 @@ public final class R {
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10776,7 +10776,7 @@ public final class R {
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10788,7 +10788,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10799,7 +10799,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#title}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -10809,7 +10809,7 @@ public final class R {
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10822,7 +10822,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10835,7 +10835,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10848,7 +10848,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10861,7 +10861,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10874,7 +10874,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10887,7 +10887,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10899,7 +10899,7 @@ public final class R {
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10966,7 +10966,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10977,7 +10977,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11073,7 +11073,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11086,7 +11086,7 @@ public final class R {
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11099,7 +11099,7 @@ public final class R {
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link io.github.froger.instalearner.R.attr#theme}
+     * <p>This symbol is the offset where the {@link io.github.froger.instamaterial.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
