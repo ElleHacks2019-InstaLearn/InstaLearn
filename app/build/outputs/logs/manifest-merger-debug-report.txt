@@ -113,7 +113,7 @@ MERGED from [com.android.support:support-compat:25.0.0] /Users/anupya/.gradle/ca
 	android:theme
 		ADDED from /Users/anupya/Documents/GitHub/instalearner/app/src/main/AndroidManifest.xml:23:9-40
 	android:name
-		ADDED from /Users/anupya/Documents/GitHub/instalearner/app/src/main/AndroidManifest.xml:20:9-49
+		ADDED from /Users/anupya/Documents/GitHub/instalearner/app/src/main/AndroidManifest.xml:20:9-48
 activity#io.github.froger.instalearner.ui.activity.MainActivity
 ADDED from /Users/anupya/Documents/GitHub/instalearner/app/src/main/AndroidManifest.xml:24:9-31:20
 	android:screenOrientation

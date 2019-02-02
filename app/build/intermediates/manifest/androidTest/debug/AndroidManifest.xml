@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="io.github.froger.instamaterial"
+                     android:targetPackage="io.github.froger.instalearner"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for io.github.froger.instamaterial"/>
+                     android:label="Tests for io.github.froger.instalearner"/>
 </manifest>

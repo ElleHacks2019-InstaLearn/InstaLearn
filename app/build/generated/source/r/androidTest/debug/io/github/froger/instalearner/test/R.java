@@ -3451,35 +3451,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background io.github.froger.instamaterial.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit io.github.froger.instamaterial.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked io.github.froger.instamaterial.test:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd io.github.froger.instamaterial.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions io.github.froger.instamaterial.test:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft io.github.froger.instamaterial.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight io.github.froger.instamaterial.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart io.github.froger.instamaterial.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation io.github.froger.instamaterial.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout io.github.froger.instamaterial.test:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions io.github.froger.instamaterial.test:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider io.github.froger.instamaterial.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation io.github.froger.instamaterial.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height io.github.froger.instamaterial.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll io.github.froger.instamaterial.test:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.github.froger.instamaterial.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout io.github.froger.instamaterial.test:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon io.github.froger.instamaterial.test:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.github.froger.instamaterial.test:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding io.github.froger.instamaterial.test:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo io.github.froger.instamaterial.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode io.github.froger.instamaterial.test:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme io.github.froger.instamaterial.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding io.github.froger.instamaterial.test:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle io.github.froger.instamaterial.test:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle io.github.froger.instamaterial.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle io.github.froger.instamaterial.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title io.github.froger.instamaterial.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle io.github.froger.instamaterial.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background io.github.froger.instalearner.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit io.github.froger.instalearner.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked io.github.froger.instalearner.test:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd io.github.froger.instalearner.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions io.github.froger.instalearner.test:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft io.github.froger.instalearner.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight io.github.froger.instalearner.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart io.github.froger.instalearner.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation io.github.froger.instalearner.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout io.github.froger.instalearner.test:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions io.github.froger.instalearner.test:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider io.github.froger.instalearner.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation io.github.froger.instalearner.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height io.github.froger.instalearner.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll io.github.froger.instalearner.test:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator io.github.froger.instalearner.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout io.github.froger.instalearner.test:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon io.github.froger.instalearner.test:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle io.github.froger.instalearner.test:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding io.github.froger.instalearner.test:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo io.github.froger.instalearner.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode io.github.froger.instalearner.test:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme io.github.froger.instalearner.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding io.github.froger.instalearner.test:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle io.github.froger.instalearner.test:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle io.github.froger.instalearner.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle io.github.froger.instalearner.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title io.github.froger.instalearner.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle io.github.froger.instalearner.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3573,7 +3573,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:background
+     * @attr name io.github.froger.instalearner.test:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -3588,7 +3588,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundSplit
+     * @attr name io.github.froger.instalearner.test:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -3603,7 +3603,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundStacked
+     * @attr name io.github.froger.instalearner.test:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -3616,7 +3616,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetEnd
+     * @attr name io.github.froger.instalearner.test:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -3629,7 +3629,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetEndWithActions
+     * @attr name io.github.froger.instalearner.test:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -3642,7 +3642,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetLeft
+     * @attr name io.github.froger.instalearner.test:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -3655,7 +3655,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetRight
+     * @attr name io.github.froger.instalearner.test:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -3668,7 +3668,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetStart
+     * @attr name io.github.froger.instalearner.test:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -3681,7 +3681,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetStartWithNavigation
+     * @attr name io.github.froger.instalearner.test:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -3693,7 +3693,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:customNavigationLayout
+     * @attr name io.github.froger.instalearner.test:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -3715,7 +3715,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:displayOptions
+     * @attr name io.github.froger.instalearner.test:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -3727,7 +3727,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:divider
+     * @attr name io.github.froger.instalearner.test:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -3740,7 +3740,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:elevation
+     * @attr name io.github.froger.instalearner.test:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -3753,7 +3753,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:height
+     * @attr name io.github.froger.instalearner.test:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -3763,7 +3763,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:hideOnContentScroll
+     * @attr name io.github.froger.instalearner.test:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -3775,7 +3775,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:homeAsUpIndicator
+     * @attr name io.github.froger.instalearner.test:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -3787,7 +3787,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:homeLayout
+     * @attr name io.github.froger.instalearner.test:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -3799,7 +3799,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:icon
+     * @attr name io.github.froger.instalearner.test:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -3811,7 +3811,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:indeterminateProgressStyle
+     * @attr name io.github.froger.instalearner.test:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -3824,7 +3824,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:itemPadding
+     * @attr name io.github.froger.instalearner.test:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -3836,7 +3836,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:logo
+     * @attr name io.github.froger.instalearner.test:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -3854,7 +3854,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:navigationMode
+     * @attr name io.github.froger.instalearner.test:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -3866,7 +3866,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:popupTheme
+     * @attr name io.github.froger.instalearner.test:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -3879,7 +3879,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:progressBarPadding
+     * @attr name io.github.froger.instalearner.test:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -3891,7 +3891,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:progressBarStyle
+     * @attr name io.github.froger.instalearner.test:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -3901,7 +3901,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:subtitle
+     * @attr name io.github.froger.instalearner.test:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -3913,7 +3913,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:subtitleTextStyle
+     * @attr name io.github.froger.instalearner.test:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -3923,7 +3923,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:title
+     * @attr name io.github.froger.instalearner.test:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -3935,7 +3935,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:titleTextStyle
+     * @attr name io.github.froger.instalearner.test:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -3974,12 +3974,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background io.github.froger.instamaterial.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit io.github.froger.instamaterial.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout io.github.froger.instamaterial.test:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height io.github.froger.instamaterial.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle io.github.froger.instamaterial.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle io.github.froger.instamaterial.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background io.github.froger.instalearner.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit io.github.froger.instalearner.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout io.github.froger.instalearner.test:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height io.github.froger.instalearner.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle io.github.froger.instalearner.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle io.github.froger.instalearner.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4001,7 +4001,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:background
+     * @attr name io.github.froger.instalearner.test:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -4016,7 +4016,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundSplit
+     * @attr name io.github.froger.instalearner.test:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -4028,7 +4028,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:closeItemLayout
+     * @attr name io.github.froger.instalearner.test:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -4041,7 +4041,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:height
+     * @attr name io.github.froger.instalearner.test:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -4053,7 +4053,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:subtitleTextStyle
+     * @attr name io.github.froger.instalearner.test:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -4065,7 +4065,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:titleTextStyle
+     * @attr name io.github.froger.instalearner.test:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4075,8 +4075,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.github.froger.instamaterial.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.github.froger.instamaterial.test:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable io.github.froger.instalearner.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount io.github.froger.instalearner.test:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4093,7 +4093,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:expandActivityOverflowButtonDrawable
+     * @attr name io.github.froger.instalearner.test:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -4103,7 +4103,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:initialActivityCount
+     * @attr name io.github.froger.instalearner.test:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4114,11 +4114,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout io.github.froger.instamaterial.test:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout io.github.froger.instamaterial.test:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout io.github.froger.instamaterial.test:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout io.github.froger.instamaterial.test:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout io.github.froger.instamaterial.test:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout io.github.froger.instalearner.test:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout io.github.froger.instalearner.test:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout io.github.froger.instalearner.test:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout io.github.froger.instalearner.test:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout io.github.froger.instalearner.test:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -4152,7 +4152,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonPanelSideLayout
+     * @attr name io.github.froger.instalearner.test:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
@@ -4164,7 +4164,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listItemLayout
+     * @attr name io.github.froger.instalearner.test:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
@@ -4176,7 +4176,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listLayout
+     * @attr name io.github.froger.instalearner.test:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
@@ -4188,7 +4188,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:multiChoiceItemLayout
+     * @attr name io.github.froger.instalearner.test:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
@@ -4200,7 +4200,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:singleChoiceItemLayout
+     * @attr name io.github.froger.instalearner.test:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=5;
     /**
@@ -4211,8 +4211,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation io.github.froger.instamaterial.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded io.github.froger.instamaterial.test:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation io.github.froger.instalearner.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded io.github.froger.instalearner.test:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_elevation
@@ -4228,8 +4228,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed io.github.froger.instamaterial.test:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible io.github.froger.instamaterial.test:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed io.github.froger.instalearner.test:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible io.github.froger.instalearner.test:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -4244,7 +4244,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:state_collapsed
+     * @attr name io.github.froger.instalearner.test:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
@@ -4254,7 +4254,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:state_collapsible
+     * @attr name io.github.froger.instalearner.test:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -4264,8 +4264,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags io.github.froger.instamaterial.test:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator io.github.froger.instamaterial.test:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags io.github.froger.instalearner.test:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator io.github.froger.instalearner.test:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4290,7 +4290,7 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:layout_scrollFlags
+     * @attr name io.github.froger.instalearner.test:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
@@ -4302,7 +4302,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:layout_scrollInterpolator
+     * @attr name io.github.froger.instalearner.test:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -4330,7 +4330,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:elevation
+     * @attr name io.github.froger.instalearner.test:elevation
      */
     public static final int AppBarLayout_elevation=1;
     /**
@@ -4340,7 +4340,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:expanded
+     * @attr name io.github.froger.instalearner.test:expanded
      */
     public static final int AppBarLayout_expanded=2;
     /**
@@ -4351,7 +4351,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat io.github.froger.instamaterial.test:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat io.github.froger.instalearner.test:srcCompat}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4383,7 +4383,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:srcCompat
+     * @attr name io.github.froger.instalearner.test:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -4394,9 +4394,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark io.github.froger.instamaterial.test:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint io.github.froger.instamaterial.test:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode io.github.froger.instamaterial.test:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark io.github.froger.instalearner.test:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint io.github.froger.instalearner.test:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode io.github.froger.instalearner.test:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4427,7 +4427,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tickMark
+     * @attr name io.github.froger.instalearner.test:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -4438,7 +4438,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tickMarkTint
+     * @attr name io.github.froger.instalearner.test:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -4459,7 +4459,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:tickMarkTintMode
+     * @attr name io.github.froger.instalearner.test:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -4599,7 +4599,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps io.github.froger.instamaterial.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps io.github.froger.instalearner.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_textAllCaps
@@ -4630,7 +4630,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAllCaps
+     * @attr name io.github.froger.instalearner.test:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=1;
     /**
@@ -4642,119 +4642,119 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider io.github.froger.instamaterial.test:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground io.github.froger.instamaterial.test:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme io.github.froger.instamaterial.test:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize io.github.froger.instamaterial.test:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle io.github.froger.instamaterial.test:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle io.github.froger.instamaterial.test:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle io.github.froger.instamaterial.test:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle io.github.froger.instamaterial.test:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle io.github.froger.instamaterial.test:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme io.github.froger.instamaterial.test:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme io.github.froger.instamaterial.test:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle io.github.froger.instamaterial.test:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle io.github.froger.instamaterial.test:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance io.github.froger.instamaterial.test:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor io.github.froger.instamaterial.test:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground io.github.froger.instamaterial.test:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle io.github.froger.instamaterial.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable io.github.froger.instamaterial.test:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable io.github.froger.instamaterial.test:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable io.github.froger.instamaterial.test:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable io.github.froger.instamaterial.test:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable io.github.froger.instamaterial.test:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle io.github.froger.instamaterial.test:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable io.github.froger.instamaterial.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable io.github.froger.instamaterial.test:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground io.github.froger.instamaterial.test:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle io.github.froger.instamaterial.test:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable io.github.froger.instamaterial.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle io.github.froger.instamaterial.test:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle io.github.froger.instamaterial.test:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle io.github.froger.instamaterial.test:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle io.github.froger.instamaterial.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons io.github.froger.instamaterial.test:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle io.github.froger.instamaterial.test:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme io.github.froger.instamaterial.test:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle io.github.froger.instamaterial.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle io.github.froger.instamaterial.test:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle io.github.froger.instamaterial.test:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle io.github.froger.instamaterial.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle io.github.froger.instamaterial.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle io.github.froger.instamaterial.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle io.github.froger.instamaterial.test:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle io.github.froger.instamaterial.test:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall io.github.froger.instamaterial.test:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle io.github.froger.instamaterial.test:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle io.github.froger.instamaterial.test:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent io.github.froger.instamaterial.test:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating io.github.froger.instamaterial.test:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal io.github.froger.instamaterial.test:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated io.github.froger.instamaterial.test:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight io.github.froger.instamaterial.test:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal io.github.froger.instamaterial.test:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary io.github.froger.instamaterial.test:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark io.github.froger.instamaterial.test:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal io.github.froger.instamaterial.test:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground io.github.froger.instamaterial.test:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding io.github.froger.instamaterial.test:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme io.github.froger.instamaterial.test:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal io.github.froger.instamaterial.test:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical io.github.froger.instamaterial.test:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle io.github.froger.instamaterial.test:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight io.github.froger.instamaterial.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground io.github.froger.instamaterial.test:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor io.github.froger.instamaterial.test:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle io.github.froger.instamaterial.test:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator io.github.froger.instamaterial.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle io.github.froger.instamaterial.test:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator io.github.froger.instamaterial.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog io.github.froger.instamaterial.test:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle io.github.froger.instamaterial.test:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle io.github.froger.instamaterial.test:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight io.github.froger.instamaterial.test:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge io.github.froger.instamaterial.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall io.github.froger.instamaterial.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft io.github.froger.instamaterial.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight io.github.froger.instamaterial.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground io.github.froger.instamaterial.test:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme io.github.froger.instamaterial.test:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth io.github.froger.instamaterial.test:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle io.github.froger.instamaterial.test:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle io.github.froger.instamaterial.test:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle io.github.froger.instamaterial.test:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle io.github.froger.instamaterial.test:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator io.github.froger.instamaterial.test:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall io.github.froger.instamaterial.test:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle io.github.froger.instamaterial.test:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle io.github.froger.instamaterial.test:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground io.github.froger.instamaterial.test:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless io.github.froger.instamaterial.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle io.github.froger.instamaterial.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle io.github.froger.instamaterial.test:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle io.github.froger.instamaterial.test:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu io.github.froger.instamaterial.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem io.github.froger.instamaterial.test:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall io.github.froger.instamaterial.test:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader io.github.froger.instamaterial.test:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle io.github.froger.instamaterial.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle io.github.froger.instamaterial.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu io.github.froger.instamaterial.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem io.github.froger.instamaterial.test:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl io.github.froger.instamaterial.test:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle io.github.froger.instamaterial.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle io.github.froger.instamaterial.test:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar io.github.froger.instamaterial.test:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay io.github.froger.instamaterial.test:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay io.github.froger.instamaterial.test:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor io.github.froger.instamaterial.test:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor io.github.froger.instamaterial.test:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor io.github.froger.instamaterial.test:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor io.github.froger.instamaterial.test:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor io.github.froger.instamaterial.test:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor io.github.froger.instamaterial.test:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle io.github.froger.instamaterial.test:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider io.github.froger.instalearner.test:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground io.github.froger.instalearner.test:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme io.github.froger.instalearner.test:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize io.github.froger.instalearner.test:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle io.github.froger.instalearner.test:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle io.github.froger.instalearner.test:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle io.github.froger.instalearner.test:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle io.github.froger.instalearner.test:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle io.github.froger.instalearner.test:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme io.github.froger.instalearner.test:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme io.github.froger.instalearner.test:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle io.github.froger.instalearner.test:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle io.github.froger.instalearner.test:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance io.github.froger.instalearner.test:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor io.github.froger.instalearner.test:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground io.github.froger.instalearner.test:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle io.github.froger.instalearner.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable io.github.froger.instalearner.test:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable io.github.froger.instalearner.test:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable io.github.froger.instalearner.test:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable io.github.froger.instalearner.test:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable io.github.froger.instalearner.test:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle io.github.froger.instalearner.test:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable io.github.froger.instalearner.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable io.github.froger.instalearner.test:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground io.github.froger.instalearner.test:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle io.github.froger.instalearner.test:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable io.github.froger.instalearner.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle io.github.froger.instalearner.test:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle io.github.froger.instalearner.test:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle io.github.froger.instalearner.test:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle io.github.froger.instalearner.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons io.github.froger.instalearner.test:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle io.github.froger.instalearner.test:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme io.github.froger.instalearner.test:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle io.github.froger.instalearner.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle io.github.froger.instalearner.test:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle io.github.froger.instalearner.test:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle io.github.froger.instalearner.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle io.github.froger.instalearner.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle io.github.froger.instalearner.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle io.github.froger.instalearner.test:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle io.github.froger.instalearner.test:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall io.github.froger.instalearner.test:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle io.github.froger.instalearner.test:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle io.github.froger.instalearner.test:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent io.github.froger.instalearner.test:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating io.github.froger.instalearner.test:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal io.github.froger.instalearner.test:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated io.github.froger.instalearner.test:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight io.github.froger.instalearner.test:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal io.github.froger.instalearner.test:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary io.github.froger.instalearner.test:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark io.github.froger.instalearner.test:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal io.github.froger.instalearner.test:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground io.github.froger.instalearner.test:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding io.github.froger.instalearner.test:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme io.github.froger.instalearner.test:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal io.github.froger.instalearner.test:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical io.github.froger.instalearner.test:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle io.github.froger.instalearner.test:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight io.github.froger.instalearner.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground io.github.froger.instalearner.test:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor io.github.froger.instalearner.test:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle io.github.froger.instalearner.test:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator io.github.froger.instalearner.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle io.github.froger.instalearner.test:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator io.github.froger.instalearner.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog io.github.froger.instalearner.test:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle io.github.froger.instalearner.test:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle io.github.froger.instalearner.test:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight io.github.froger.instalearner.test:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge io.github.froger.instalearner.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall io.github.froger.instalearner.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft io.github.froger.instalearner.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight io.github.froger.instalearner.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground io.github.froger.instalearner.test:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme io.github.froger.instalearner.test:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth io.github.froger.instalearner.test:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle io.github.froger.instalearner.test:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle io.github.froger.instalearner.test:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle io.github.froger.instalearner.test:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle io.github.froger.instalearner.test:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator io.github.froger.instalearner.test:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall io.github.froger.instalearner.test:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle io.github.froger.instalearner.test:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle io.github.froger.instalearner.test:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground io.github.froger.instalearner.test:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless io.github.froger.instalearner.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle io.github.froger.instalearner.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle io.github.froger.instalearner.test:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle io.github.froger.instalearner.test:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu io.github.froger.instalearner.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem io.github.froger.instalearner.test:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall io.github.froger.instalearner.test:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader io.github.froger.instalearner.test:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle io.github.froger.instalearner.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle io.github.froger.instalearner.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu io.github.froger.instalearner.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem io.github.froger.instalearner.test:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl io.github.froger.instalearner.test:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle io.github.froger.instalearner.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle io.github.froger.instalearner.test:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar io.github.froger.instalearner.test:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay io.github.froger.instalearner.test:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay io.github.froger.instalearner.test:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor io.github.froger.instalearner.test:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor io.github.froger.instalearner.test:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor io.github.froger.instalearner.test:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor io.github.froger.instalearner.test:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor io.github.froger.instalearner.test:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor io.github.froger.instalearner.test:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle io.github.froger.instalearner.test:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -4912,7 +4912,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarDivider
+     * @attr name io.github.froger.instalearner.test:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -4924,7 +4924,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarItemBackground
+     * @attr name io.github.froger.instalearner.test:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -4936,7 +4936,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarPopupTheme
+     * @attr name io.github.froger.instalearner.test:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -4957,7 +4957,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarSize
+     * @attr name io.github.froger.instalearner.test:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -4969,7 +4969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarSplitStyle
+     * @attr name io.github.froger.instalearner.test:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -4981,7 +4981,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarStyle
+     * @attr name io.github.froger.instalearner.test:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
@@ -4993,7 +4993,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarTabBarStyle
+     * @attr name io.github.froger.instalearner.test:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -5005,7 +5005,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarTabStyle
+     * @attr name io.github.froger.instalearner.test:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
@@ -5017,7 +5017,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarTabTextStyle
+     * @attr name io.github.froger.instalearner.test:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -5029,7 +5029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarTheme
+     * @attr name io.github.froger.instalearner.test:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -5041,7 +5041,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionBarWidgetTheme
+     * @attr name io.github.froger.instalearner.test:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -5053,7 +5053,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionButtonStyle
+     * @attr name io.github.froger.instalearner.test:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -5065,7 +5065,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionDropDownStyle
+     * @attr name io.github.froger.instalearner.test:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -5077,7 +5077,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionMenuTextAppearance
+     * @attr name io.github.froger.instalearner.test:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -5092,7 +5092,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionMenuTextColor
+     * @attr name io.github.froger.instalearner.test:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -5104,7 +5104,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeBackground
+     * @attr name io.github.froger.instalearner.test:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
@@ -5116,7 +5116,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeCloseButtonStyle
+     * @attr name io.github.froger.instalearner.test:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -5128,7 +5128,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeCloseDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -5140,7 +5140,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeCopyDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -5152,7 +5152,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeCutDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -5164,7 +5164,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeFindDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -5176,7 +5176,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModePasteDrawable
+     * @attr name io.github.froger.instalearner.test:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -5188,7 +5188,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModePopupWindowStyle
+     * @attr name io.github.froger.instalearner.test:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -5200,7 +5200,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeSelectAllDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -5212,7 +5212,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeShareDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -5224,7 +5224,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeSplitBackground
+     * @attr name io.github.froger.instalearner.test:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
@@ -5236,7 +5236,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeStyle
+     * @attr name io.github.froger.instalearner.test:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -5248,7 +5248,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionModeWebSearchDrawable
+     * @attr name io.github.froger.instalearner.test:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
@@ -5260,7 +5260,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionOverflowButtonStyle
+     * @attr name io.github.froger.instalearner.test:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
@@ -5272,7 +5272,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionOverflowMenuStyle
+     * @attr name io.github.froger.instalearner.test:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -5284,7 +5284,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:activityChooserViewStyle
+     * @attr name io.github.froger.instalearner.test:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
@@ -5296,7 +5296,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:alertDialogButtonGroupStyle
+     * @attr name io.github.froger.instalearner.test:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
@@ -5306,7 +5306,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:alertDialogCenterButtons
+     * @attr name io.github.froger.instalearner.test:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
@@ -5318,7 +5318,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:alertDialogStyle
+     * @attr name io.github.froger.instalearner.test:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -5330,7 +5330,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:alertDialogTheme
+     * @attr name io.github.froger.instalearner.test:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -5364,7 +5364,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:autoCompleteTextViewStyle
+     * @attr name io.github.froger.instalearner.test:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -5376,7 +5376,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:borderlessButtonStyle
+     * @attr name io.github.froger.instalearner.test:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -5388,7 +5388,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonBarButtonStyle
+     * @attr name io.github.froger.instalearner.test:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -5400,7 +5400,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonBarNegativeButtonStyle
+     * @attr name io.github.froger.instalearner.test:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -5412,7 +5412,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonBarNeutralButtonStyle
+     * @attr name io.github.froger.instalearner.test:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -5424,7 +5424,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonBarPositiveButtonStyle
+     * @attr name io.github.froger.instalearner.test:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -5436,7 +5436,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonBarStyle
+     * @attr name io.github.froger.instalearner.test:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -5448,7 +5448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonStyle
+     * @attr name io.github.froger.instalearner.test:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -5460,7 +5460,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonStyleSmall
+     * @attr name io.github.froger.instalearner.test:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -5472,7 +5472,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:checkboxStyle
+     * @attr name io.github.froger.instalearner.test:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -5484,7 +5484,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:checkedTextViewStyle
+     * @attr name io.github.froger.instalearner.test:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -5495,7 +5495,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorAccent
+     * @attr name io.github.froger.instalearner.test:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -5506,7 +5506,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorBackgroundFloating
+     * @attr name io.github.froger.instalearner.test:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -5517,7 +5517,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorButtonNormal
+     * @attr name io.github.froger.instalearner.test:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -5528,7 +5528,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorControlActivated
+     * @attr name io.github.froger.instalearner.test:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -5539,7 +5539,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorControlHighlight
+     * @attr name io.github.froger.instalearner.test:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -5550,7 +5550,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorControlNormal
+     * @attr name io.github.froger.instalearner.test:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -5561,7 +5561,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorPrimary
+     * @attr name io.github.froger.instalearner.test:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=54;
     /**
@@ -5572,7 +5572,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorPrimaryDark
+     * @attr name io.github.froger.instalearner.test:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=55;
     /**
@@ -5583,7 +5583,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:colorSwitchThumbNormal
+     * @attr name io.github.froger.instalearner.test:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=56;
     /**
@@ -5595,7 +5595,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:controlBackground
+     * @attr name io.github.froger.instalearner.test:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=57;
     /**
@@ -5608,7 +5608,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:dialogPreferredPadding
+     * @attr name io.github.froger.instalearner.test:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=58;
     /**
@@ -5620,7 +5620,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:dialogTheme
+     * @attr name io.github.froger.instalearner.test:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=59;
     /**
@@ -5632,7 +5632,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:dividerHorizontal
+     * @attr name io.github.froger.instalearner.test:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=60;
     /**
@@ -5644,7 +5644,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:dividerVertical
+     * @attr name io.github.froger.instalearner.test:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=61;
     /**
@@ -5656,7 +5656,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:dropDownListViewStyle
+     * @attr name io.github.froger.instalearner.test:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=62;
     /**
@@ -5669,7 +5669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:dropdownListPreferredItemHeight
+     * @attr name io.github.froger.instalearner.test:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=63;
     /**
@@ -5681,7 +5681,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:editTextBackground
+     * @attr name io.github.froger.instalearner.test:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=64;
     /**
@@ -5696,7 +5696,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:editTextColor
+     * @attr name io.github.froger.instalearner.test:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=65;
     /**
@@ -5708,7 +5708,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:editTextStyle
+     * @attr name io.github.froger.instalearner.test:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=66;
     /**
@@ -5720,7 +5720,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:homeAsUpIndicator
+     * @attr name io.github.froger.instalearner.test:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=67;
     /**
@@ -5732,7 +5732,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:imageButtonStyle
+     * @attr name io.github.froger.instalearner.test:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=68;
     /**
@@ -5744,7 +5744,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listChoiceBackgroundIndicator
+     * @attr name io.github.froger.instalearner.test:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=69;
     /**
@@ -5756,7 +5756,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listDividerAlertDialog
+     * @attr name io.github.froger.instalearner.test:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=70;
     /**
@@ -5768,7 +5768,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listMenuViewStyle
+     * @attr name io.github.froger.instalearner.test:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=71;
     /**
@@ -5780,7 +5780,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:listPopupWindowStyle
+     * @attr name io.github.froger.instalearner.test:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=72;
     /**
@@ -5793,7 +5793,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:listPreferredItemHeight
+     * @attr name io.github.froger.instalearner.test:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=73;
     /**
@@ -5806,7 +5806,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:listPreferredItemHeightLarge
+     * @attr name io.github.froger.instalearner.test:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=74;
     /**
@@ -5819,7 +5819,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:listPreferredItemHeightSmall
+     * @attr name io.github.froger.instalearner.test:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=75;
     /**
@@ -5832,7 +5832,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:listPreferredItemPaddingLeft
+     * @attr name io.github.froger.instalearner.test:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=76;
     /**
@@ -5845,7 +5845,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:listPreferredItemPaddingRight
+     * @attr name io.github.froger.instalearner.test:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=77;
     /**
@@ -5857,7 +5857,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:panelBackground
+     * @attr name io.github.froger.instalearner.test:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=78;
     /**
@@ -5869,7 +5869,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:panelMenuListTheme
+     * @attr name io.github.froger.instalearner.test:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=79;
     /**
@@ -5882,7 +5882,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:panelMenuListWidth
+     * @attr name io.github.froger.instalearner.test:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=80;
     /**
@@ -5894,7 +5894,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:popupMenuStyle
+     * @attr name io.github.froger.instalearner.test:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=81;
     /**
@@ -5906,7 +5906,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:popupWindowStyle
+     * @attr name io.github.froger.instalearner.test:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=82;
     /**
@@ -5918,7 +5918,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:radioButtonStyle
+     * @attr name io.github.froger.instalearner.test:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=83;
     /**
@@ -5930,7 +5930,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:ratingBarStyle
+     * @attr name io.github.froger.instalearner.test:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=84;
     /**
@@ -5942,7 +5942,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:ratingBarStyleIndicator
+     * @attr name io.github.froger.instalearner.test:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=85;
     /**
@@ -5954,7 +5954,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:ratingBarStyleSmall
+     * @attr name io.github.froger.instalearner.test:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=86;
     /**
@@ -5966,7 +5966,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:searchViewStyle
+     * @attr name io.github.froger.instalearner.test:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=87;
     /**
@@ -5978,7 +5978,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:seekBarStyle
+     * @attr name io.github.froger.instalearner.test:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=88;
     /**
@@ -5990,7 +5990,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:selectableItemBackground
+     * @attr name io.github.froger.instalearner.test:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=89;
     /**
@@ -6002,7 +6002,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:selectableItemBackgroundBorderless
+     * @attr name io.github.froger.instalearner.test:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=90;
     /**
@@ -6014,7 +6014,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:spinnerDropDownItemStyle
+     * @attr name io.github.froger.instalearner.test:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=91;
     /**
@@ -6026,7 +6026,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:spinnerStyle
+     * @attr name io.github.froger.instalearner.test:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=92;
     /**
@@ -6038,7 +6038,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:switchStyle
+     * @attr name io.github.froger.instalearner.test:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=93;
     /**
@@ -6050,7 +6050,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceLargePopupMenu
+     * @attr name io.github.froger.instalearner.test:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=94;
     /**
@@ -6062,7 +6062,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceListItem
+     * @attr name io.github.froger.instalearner.test:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=95;
     /**
@@ -6074,7 +6074,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceListItemSmall
+     * @attr name io.github.froger.instalearner.test:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=96;
     /**
@@ -6086,7 +6086,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearancePopupMenuHeader
+     * @attr name io.github.froger.instalearner.test:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=97;
     /**
@@ -6098,7 +6098,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceSearchResultSubtitle
+     * @attr name io.github.froger.instalearner.test:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=98;
     /**
@@ -6110,7 +6110,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceSearchResultTitle
+     * @attr name io.github.froger.instalearner.test:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=99;
     /**
@@ -6122,7 +6122,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAppearanceSmallPopupMenu
+     * @attr name io.github.froger.instalearner.test:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=100;
     /**
@@ -6137,7 +6137,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textColorAlertDialogListItem
+     * @attr name io.github.froger.instalearner.test:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=101;
     /**
@@ -6152,7 +6152,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textColorSearchUrl
+     * @attr name io.github.froger.instalearner.test:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=102;
     /**
@@ -6164,7 +6164,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:toolbarNavigationButtonStyle
+     * @attr name io.github.froger.instalearner.test:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=103;
     /**
@@ -6176,7 +6176,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:toolbarStyle
+     * @attr name io.github.froger.instalearner.test:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=104;
     /**
@@ -6186,7 +6186,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:windowActionBar
+     * @attr name io.github.froger.instalearner.test:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=105;
     /**
@@ -6196,7 +6196,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:windowActionBarOverlay
+     * @attr name io.github.froger.instalearner.test:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=106;
     /**
@@ -6206,7 +6206,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:windowActionModeOverlay
+     * @attr name io.github.froger.instalearner.test:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=107;
     /**
@@ -6223,7 +6223,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowFixedHeightMajor
+     * @attr name io.github.froger.instalearner.test:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=108;
     /**
@@ -6240,7 +6240,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowFixedHeightMinor
+     * @attr name io.github.froger.instalearner.test:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=109;
     /**
@@ -6257,7 +6257,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowFixedWidthMajor
+     * @attr name io.github.froger.instalearner.test:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=110;
     /**
@@ -6274,7 +6274,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowFixedWidthMinor
+     * @attr name io.github.froger.instalearner.test:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=111;
     /**
@@ -6291,7 +6291,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowMinWidthMajor
+     * @attr name io.github.froger.instalearner.test:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=112;
     /**
@@ -6308,7 +6308,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name io.github.froger.instamaterial.test:windowMinWidthMinor
+     * @attr name io.github.froger.instalearner.test:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=113;
     /**
@@ -6318,7 +6318,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:windowNoTitle
+     * @attr name io.github.froger.instalearner.test:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=114;
     /**
@@ -6328,10 +6328,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground io.github.froger.instamaterial.test:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint io.github.froger.instamaterial.test:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor io.github.froger.instamaterial.test:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu io.github.froger.instamaterial.test:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground io.github.froger.instalearner.test:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint io.github.froger.instalearner.test:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor io.github.froger.instalearner.test:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu io.github.froger.instalearner.test:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_itemBackground
      * @see #BottomNavigationView_itemIconTint
@@ -6350,7 +6350,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemBackground
+     * @attr name io.github.froger.instalearner.test:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=0;
     /**
@@ -6361,7 +6361,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemIconTint
+     * @attr name io.github.froger.instalearner.test:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=1;
     /**
@@ -6372,7 +6372,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemTextColor
+     * @attr name io.github.froger.instalearner.test:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=2;
     /**
@@ -6384,7 +6384,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:menu
+     * @attr name io.github.froger.instalearner.test:menu
      */
     public static final int BottomNavigationView_menu=3;
     /**
@@ -6394,9 +6394,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable io.github.froger.instamaterial.test:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight io.github.froger.instamaterial.test:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed io.github.froger.instamaterial.test:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable io.github.froger.instalearner.test:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight io.github.froger.instalearner.test:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed io.github.froger.instalearner.test:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6412,7 +6412,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:behavior_hideable
+     * @attr name io.github.froger.instalearner.test:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
@@ -6433,7 +6433,7 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:behavior_peekHeight
+     * @attr name io.github.froger.instalearner.test:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
@@ -6443,7 +6443,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:behavior_skipCollapsed
+     * @attr name io.github.froger.instalearner.test:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -6453,7 +6453,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking io.github.froger.instamaterial.test:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking io.github.froger.instalearner.test:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -6467,7 +6467,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:allowStacking
+     * @attr name io.github.froger.instalearner.test:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -6479,17 +6479,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor io.github.froger.instamaterial.test:cardBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius io.github.froger.instamaterial.test:cardCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation io.github.froger.instamaterial.test:cardElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation io.github.froger.instamaterial.test:cardMaxElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap io.github.froger.instamaterial.test:cardPreventCornerOverlap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding io.github.froger.instamaterial.test:cardUseCompatPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding io.github.froger.instamaterial.test:contentPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom io.github.froger.instamaterial.test:contentPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft io.github.froger.instamaterial.test:contentPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight io.github.froger.instamaterial.test:contentPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop io.github.froger.instamaterial.test:contentPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor io.github.froger.instalearner.test:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius io.github.froger.instalearner.test:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation io.github.froger.instalearner.test:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation io.github.froger.instalearner.test:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap io.github.froger.instalearner.test:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding io.github.froger.instalearner.test:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding io.github.froger.instalearner.test:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom io.github.froger.instalearner.test:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft io.github.froger.instalearner.test:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight io.github.froger.instalearner.test:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop io.github.froger.instalearner.test:contentPaddingTop}</code></td><td></td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -6545,7 +6545,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:cardBackgroundColor
+     * @attr name io.github.froger.instalearner.test:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -6558,7 +6558,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:cardCornerRadius
+     * @attr name io.github.froger.instalearner.test:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -6571,7 +6571,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:cardElevation
+     * @attr name io.github.froger.instalearner.test:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -6584,7 +6584,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:cardMaxElevation
+     * @attr name io.github.froger.instalearner.test:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -6594,7 +6594,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:cardPreventCornerOverlap
+     * @attr name io.github.froger.instalearner.test:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -6604,7 +6604,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:cardUseCompatPadding
+     * @attr name io.github.froger.instalearner.test:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -6617,7 +6617,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentPadding
+     * @attr name io.github.froger.instalearner.test:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -6630,7 +6630,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentPaddingBottom
+     * @attr name io.github.froger.instalearner.test:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -6643,7 +6643,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentPaddingLeft
+     * @attr name io.github.froger.instalearner.test:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -6656,7 +6656,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentPaddingRight
+     * @attr name io.github.froger.instalearner.test:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -6669,7 +6669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentPaddingTop
+     * @attr name io.github.froger.instalearner.test:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -6679,22 +6679,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity io.github.froger.instamaterial.test:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance io.github.froger.instamaterial.test:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim io.github.froger.instamaterial.test:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity io.github.froger.instamaterial.test:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin io.github.froger.instamaterial.test:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom io.github.froger.instamaterial.test:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd io.github.froger.instamaterial.test:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart io.github.froger.instamaterial.test:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop io.github.froger.instamaterial.test:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance io.github.froger.instamaterial.test:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration io.github.froger.instamaterial.test:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger io.github.froger.instamaterial.test:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim io.github.froger.instamaterial.test:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title io.github.froger.instamaterial.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled io.github.froger.instamaterial.test:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId io.github.froger.instamaterial.test:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity io.github.froger.instalearner.test:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance io.github.froger.instalearner.test:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim io.github.froger.instalearner.test:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity io.github.froger.instalearner.test:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin io.github.froger.instalearner.test:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom io.github.froger.instalearner.test:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd io.github.froger.instalearner.test:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart io.github.froger.instalearner.test:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop io.github.froger.instalearner.test:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance io.github.froger.instalearner.test:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration io.github.froger.instalearner.test:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger io.github.froger.instalearner.test:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim io.github.froger.instalearner.test:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title io.github.froger.instalearner.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled io.github.froger.instalearner.test:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId io.github.froger.instalearner.test:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6726,8 +6726,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode io.github.froger.instamaterial.test:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier io.github.froger.instamaterial.test:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode io.github.froger.instalearner.test:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier io.github.froger.instalearner.test:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6750,7 +6750,7 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:layout_collapseMode
+     * @attr name io.github.froger.instalearner.test:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
@@ -6759,7 +6759,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:layout_collapseParallaxMultiplier
+     * @attr name io.github.froger.instalearner.test:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -6784,7 +6784,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:collapsedTitleGravity
+     * @attr name io.github.froger.instalearner.test:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
@@ -6796,7 +6796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:collapsedTitleTextAppearance
+     * @attr name io.github.froger.instalearner.test:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
@@ -6807,7 +6807,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:contentScrim
+     * @attr name io.github.froger.instalearner.test:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
@@ -6832,7 +6832,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleGravity
+     * @attr name io.github.froger.instalearner.test:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
@@ -6845,7 +6845,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleMargin
+     * @attr name io.github.froger.instalearner.test:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
@@ -6858,7 +6858,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleMarginBottom
+     * @attr name io.github.froger.instalearner.test:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
@@ -6871,7 +6871,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleMarginEnd
+     * @attr name io.github.froger.instalearner.test:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
@@ -6884,7 +6884,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleMarginStart
+     * @attr name io.github.froger.instalearner.test:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
@@ -6897,7 +6897,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleMarginTop
+     * @attr name io.github.froger.instalearner.test:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
@@ -6909,7 +6909,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:expandedTitleTextAppearance
+     * @attr name io.github.froger.instalearner.test:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
@@ -6918,7 +6918,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:scrimAnimationDuration
+     * @attr name io.github.froger.instalearner.test:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
@@ -6931,7 +6931,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:scrimVisibleHeightTrigger
+     * @attr name io.github.froger.instalearner.test:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
@@ -6942,7 +6942,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:statusBarScrim
+     * @attr name io.github.froger.instalearner.test:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
@@ -6952,7 +6952,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:title
+     * @attr name io.github.froger.instalearner.test:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
@@ -6962,7 +6962,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:titleEnabled
+     * @attr name io.github.froger.instalearner.test:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
@@ -6974,7 +6974,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:toolbarId
+     * @attr name io.github.froger.instalearner.test:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -6986,7 +6986,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha io.github.froger.instamaterial.test:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha io.github.froger.instalearner.test:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7001,7 +7001,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:alpha
+     * @attr name io.github.froger.instalearner.test:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7032,8 +7032,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint io.github.froger.instamaterial.test:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode io.github.froger.instamaterial.test:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint io.github.froger.instalearner.test:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode io.github.froger.instalearner.test:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7062,7 +7062,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:buttonTint
+     * @attr name io.github.froger.instalearner.test:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -7082,7 +7082,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:buttonTintMode
+     * @attr name io.github.froger.instalearner.test:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -7092,8 +7092,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines io.github.froger.instamaterial.test:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground io.github.froger.instamaterial.test:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines io.github.froger.instalearner.test:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground io.github.froger.instalearner.test:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -7109,12 +7109,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor io.github.froger.instamaterial.test:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity io.github.froger.instamaterial.test:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior io.github.froger.instamaterial.test:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges io.github.froger.instamaterial.test:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge io.github.froger.instamaterial.test:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline io.github.froger.instamaterial.test:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor io.github.froger.instalearner.test:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity io.github.froger.instalearner.test:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior io.github.froger.instalearner.test:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges io.github.froger.instalearner.test:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge io.github.froger.instalearner.test:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline io.github.froger.instalearner.test:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -7166,7 +7166,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:layout_anchor
+     * @attr name io.github.froger.instalearner.test:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -7195,7 +7195,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:layout_anchorGravity
+     * @attr name io.github.froger.instalearner.test:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -7205,7 +7205,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:layout_behavior
+     * @attr name io.github.froger.instalearner.test:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -7228,7 +7228,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:layout_dodgeInsetEdges
+     * @attr name io.github.froger.instalearner.test:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -7250,7 +7250,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:layout_insetEdge
+     * @attr name io.github.froger.instalearner.test:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -7259,7 +7259,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:layout_keyline
+     * @attr name io.github.froger.instalearner.test:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -7271,7 +7271,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:keylines
+     * @attr name io.github.froger.instalearner.test:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -7283,7 +7283,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:statusBarBackground
+     * @attr name io.github.froger.instalearner.test:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -7293,9 +7293,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme io.github.froger.instamaterial.test:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle io.github.froger.instamaterial.test:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError io.github.froger.instamaterial.test:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme io.github.froger.instalearner.test:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle io.github.froger.instalearner.test:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError io.github.froger.instalearner.test:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -7313,7 +7313,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:bottomSheetDialogTheme
+     * @attr name io.github.froger.instalearner.test:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
@@ -7325,7 +7325,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:bottomSheetStyle
+     * @attr name io.github.froger.instalearner.test:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -7336,7 +7336,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textColorError
+     * @attr name io.github.froger.instalearner.test:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -7346,14 +7346,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength io.github.froger.instamaterial.test:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength io.github.froger.instamaterial.test:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength io.github.froger.instamaterial.test:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color io.github.froger.instamaterial.test:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.github.froger.instamaterial.test:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.github.froger.instamaterial.test:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars io.github.froger.instamaterial.test:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness io.github.froger.instamaterial.test:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength io.github.froger.instalearner.test:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength io.github.froger.instalearner.test:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength io.github.froger.instalearner.test:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color io.github.froger.instalearner.test:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize io.github.froger.instalearner.test:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars io.github.froger.instalearner.test:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars io.github.froger.instalearner.test:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness io.github.froger.instalearner.test:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -7378,7 +7378,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:arrowHeadLength
+     * @attr name io.github.froger.instalearner.test:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -7391,7 +7391,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:arrowShaftLength
+     * @attr name io.github.froger.instalearner.test:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -7404,7 +7404,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:barLength
+     * @attr name io.github.froger.instalearner.test:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -7415,7 +7415,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:color
+     * @attr name io.github.froger.instalearner.test:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -7428,7 +7428,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:drawableSize
+     * @attr name io.github.froger.instalearner.test:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -7441,7 +7441,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:gapBetweenBars
+     * @attr name io.github.froger.instalearner.test:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -7451,7 +7451,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:spinBars
+     * @attr name io.github.froger.instalearner.test:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -7464,7 +7464,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:thickness
+     * @attr name io.github.froger.instalearner.test:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -7474,14 +7474,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint io.github.froger.instamaterial.test:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode io.github.froger.instamaterial.test:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth io.github.froger.instamaterial.test:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation io.github.froger.instamaterial.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize io.github.froger.instamaterial.test:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ io.github.froger.instamaterial.test:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor io.github.froger.instamaterial.test:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding io.github.froger.instamaterial.test:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint io.github.froger.instalearner.test:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode io.github.froger.instalearner.test:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth io.github.froger.instalearner.test:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation io.github.froger.instalearner.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize io.github.froger.instalearner.test:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ io.github.froger.instalearner.test:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor io.github.froger.instalearner.test:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding io.github.froger.instalearner.test:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -7503,7 +7503,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide io.github.froger.instamaterial.test:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide io.github.froger.instalearner.test:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -7517,7 +7517,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:behavior_autoHide
+     * @attr name io.github.froger.instalearner.test:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -7528,7 +7528,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundTint
+     * @attr name io.github.froger.instalearner.test:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -7548,7 +7548,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundTintMode
+     * @attr name io.github.froger.instalearner.test:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
@@ -7561,7 +7561,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:borderWidth
+     * @attr name io.github.froger.instalearner.test:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -7574,7 +7574,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:elevation
+     * @attr name io.github.froger.instalearner.test:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
@@ -7592,7 +7592,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:fabSize
+     * @attr name io.github.froger.instalearner.test:fabSize
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
@@ -7605,7 +7605,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:pressedTranslationZ
+     * @attr name io.github.froger.instalearner.test:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
@@ -7616,7 +7616,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:rippleColor
+     * @attr name io.github.froger.instalearner.test:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
@@ -7626,7 +7626,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:useCompatPadding
+     * @attr name io.github.froger.instalearner.test:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=7;
     /**
@@ -7638,7 +7638,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding io.github.froger.instamaterial.test:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding io.github.froger.instalearner.test:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7696,7 +7696,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:foregroundInsidePadding
+     * @attr name io.github.froger.instalearner.test:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -7711,10 +7711,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider io.github.froger.instamaterial.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.github.froger.instamaterial.test:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.github.froger.instamaterial.test:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers io.github.froger.instamaterial.test:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider io.github.froger.instalearner.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding io.github.froger.instalearner.test:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild io.github.froger.instalearner.test:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers io.github.froger.instalearner.test:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -7918,7 +7918,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:divider
+     * @attr name io.github.froger.instalearner.test:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -7931,7 +7931,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:dividerPadding
+     * @attr name io.github.froger.instalearner.test:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -7941,7 +7941,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:measureWithLargestChild
+     * @attr name io.github.froger.instalearner.test:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -7960,7 +7960,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:showDividers
+     * @attr name io.github.froger.instalearner.test:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -8128,10 +8128,10 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout io.github.froger.instamaterial.test:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass io.github.froger.instamaterial.test:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass io.github.froger.instamaterial.test:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction io.github.froger.instamaterial.test:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout io.github.froger.instalearner.test:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass io.github.froger.instalearner.test:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass io.github.froger.instalearner.test:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction io.github.froger.instalearner.test:showAsAction}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -8167,7 +8167,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:actionLayout
+     * @attr name io.github.froger.instalearner.test:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -8177,7 +8177,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:actionProviderClass
+     * @attr name io.github.froger.instalearner.test:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -8187,7 +8187,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:actionViewClass
+     * @attr name io.github.froger.instalearner.test:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -8349,7 +8349,7 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:showAsAction
+     * @attr name io.github.froger.instalearner.test:showAsAction
      */
     public static final int MenuItem_showAsAction=16;
     /**
@@ -8366,8 +8366,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing io.github.froger.instamaterial.test:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow io.github.froger.instamaterial.test:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing io.github.froger.instalearner.test:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow io.github.froger.instalearner.test:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -8478,7 +8478,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:preserveIconSpacing
+     * @attr name io.github.froger.instalearner.test:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -8490,7 +8490,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:subMenuArrow
+     * @attr name io.github.froger.instalearner.test:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -8503,13 +8503,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation io.github.froger.instamaterial.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout io.github.froger.instamaterial.test:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground io.github.froger.instamaterial.test:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint io.github.froger.instamaterial.test:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance io.github.froger.instamaterial.test:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor io.github.froger.instamaterial.test:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu io.github.froger.instamaterial.test:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation io.github.froger.instalearner.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout io.github.froger.instalearner.test:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground io.github.froger.instalearner.test:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint io.github.froger.instalearner.test:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance io.github.froger.instalearner.test:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor io.github.froger.instalearner.test:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu io.github.froger.instalearner.test:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -8575,7 +8575,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:elevation
+     * @attr name io.github.froger.instalearner.test:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
@@ -8587,7 +8587,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:headerLayout
+     * @attr name io.github.froger.instalearner.test:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
@@ -8599,7 +8599,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemBackground
+     * @attr name io.github.froger.instalearner.test:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
@@ -8610,7 +8610,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemIconTint
+     * @attr name io.github.froger.instalearner.test:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
@@ -8622,7 +8622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemTextAppearance
+     * @attr name io.github.froger.instalearner.test:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
@@ -8633,7 +8633,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:itemTextColor
+     * @attr name io.github.froger.instalearner.test:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
@@ -8645,7 +8645,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:menu
+     * @attr name io.github.froger.instalearner.test:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -8657,7 +8657,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor io.github.froger.instamaterial.test:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor io.github.froger.instalearner.test:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -8673,7 +8673,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.github.froger.instamaterial.test:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor io.github.froger.instalearner.test:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -8687,7 +8687,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:state_above_anchor
+     * @attr name io.github.froger.instalearner.test:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -8724,7 +8724,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:overlapAnchor
+     * @attr name io.github.froger.instalearner.test:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -8736,10 +8736,10 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager io.github.froger.instamaterial.test:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout io.github.froger.instamaterial.test:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount io.github.froger.instamaterial.test:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd io.github.froger.instamaterial.test:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager io.github.froger.instalearner.test:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout io.github.froger.instalearner.test:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount io.github.froger.instalearner.test:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd io.github.froger.instalearner.test:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -8794,7 +8794,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:layoutManager
+     * @attr name io.github.froger.instalearner.test:layoutManager
      */
     public static final int RecyclerView_layoutManager=2;
     /**
@@ -8804,7 +8804,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:reverseLayout
+     * @attr name io.github.froger.instalearner.test:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=3;
     /**
@@ -8813,7 +8813,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:spanCount
+     * @attr name io.github.froger.instalearner.test:spanCount
      */
     public static final int RecyclerView_spanCount=4;
     /**
@@ -8823,7 +8823,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:stackFromEnd
+     * @attr name io.github.froger.instalearner.test:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=5;
     /**
@@ -8833,7 +8833,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground io.github.froger.instamaterial.test:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground io.github.froger.instalearner.test:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -8852,7 +8852,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:insetForeground
+     * @attr name io.github.froger.instalearner.test:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -8862,7 +8862,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop io.github.froger.instamaterial.test:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop io.github.froger.instalearner.test:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -8879,7 +8879,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:behavior_overlapTop
+     * @attr name io.github.froger.instalearner.test:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -8893,19 +8893,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon io.github.froger.instamaterial.test:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon io.github.froger.instamaterial.test:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint io.github.froger.instamaterial.test:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon io.github.froger.instamaterial.test:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault io.github.froger.instamaterial.test:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout io.github.froger.instamaterial.test:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground io.github.froger.instamaterial.test:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint io.github.froger.instamaterial.test:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon io.github.froger.instamaterial.test:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon io.github.froger.instamaterial.test:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground io.github.froger.instamaterial.test:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout io.github.froger.instamaterial.test:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon io.github.froger.instamaterial.test:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon io.github.froger.instalearner.test:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon io.github.froger.instalearner.test:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint io.github.froger.instalearner.test:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon io.github.froger.instalearner.test:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault io.github.froger.instalearner.test:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout io.github.froger.instalearner.test:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground io.github.froger.instalearner.test:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint io.github.froger.instalearner.test:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon io.github.froger.instalearner.test:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon io.github.froger.instalearner.test:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground io.github.froger.instalearner.test:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout io.github.froger.instalearner.test:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon io.github.froger.instalearner.test:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -9042,7 +9042,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:closeIcon
+     * @attr name io.github.froger.instalearner.test:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -9054,7 +9054,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:commitIcon
+     * @attr name io.github.froger.instalearner.test:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -9064,7 +9064,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:defaultQueryHint
+     * @attr name io.github.froger.instalearner.test:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -9076,7 +9076,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:goIcon
+     * @attr name io.github.froger.instalearner.test:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -9086,7 +9086,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:iconifiedByDefault
+     * @attr name io.github.froger.instalearner.test:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -9098,7 +9098,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:layout
+     * @attr name io.github.froger.instalearner.test:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -9110,7 +9110,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:queryBackground
+     * @attr name io.github.froger.instalearner.test:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -9120,7 +9120,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:queryHint
+     * @attr name io.github.froger.instalearner.test:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -9132,7 +9132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:searchHintIcon
+     * @attr name io.github.froger.instalearner.test:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -9144,7 +9144,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:searchIcon
+     * @attr name io.github.froger.instalearner.test:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -9156,7 +9156,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:submitBackground
+     * @attr name io.github.froger.instalearner.test:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -9168,7 +9168,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:suggestionRowLayout
+     * @attr name io.github.froger.instalearner.test:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -9180,7 +9180,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:voiceIcon
+     * @attr name io.github.froger.instalearner.test:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -9191,8 +9191,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation io.github.froger.instamaterial.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth io.github.froger.instamaterial.test:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation io.github.froger.instalearner.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth io.github.froger.instalearner.test:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -9224,7 +9224,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:elevation
+     * @attr name io.github.froger.instalearner.test:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
@@ -9237,7 +9237,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:maxActionInlineWidth
+     * @attr name io.github.froger.instalearner.test:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -9251,7 +9251,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme io.github.froger.instamaterial.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme io.github.froger.instalearner.test:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -9334,7 +9334,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:popupTheme
+     * @attr name io.github.froger.instalearner.test:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -9347,17 +9347,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText io.github.froger.instamaterial.test:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack io.github.froger.instamaterial.test:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth io.github.froger.instamaterial.test:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding io.github.froger.instamaterial.test:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.github.froger.instamaterial.test:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.github.froger.instamaterial.test:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint io.github.froger.instamaterial.test:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode io.github.froger.instamaterial.test:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track io.github.froger.instamaterial.test:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint io.github.froger.instamaterial.test:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode io.github.froger.instamaterial.test:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText io.github.froger.instalearner.test:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack io.github.froger.instalearner.test:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth io.github.froger.instalearner.test:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding io.github.froger.instalearner.test:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance io.github.froger.instalearner.test:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding io.github.froger.instalearner.test:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint io.github.froger.instalearner.test:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode io.github.froger.instalearner.test:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track io.github.froger.instalearner.test:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint io.github.froger.instalearner.test:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode io.github.froger.instalearner.test:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -9419,7 +9419,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:showText
+     * @attr name io.github.froger.instalearner.test:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -9429,7 +9429,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:splitTrack
+     * @attr name io.github.froger.instalearner.test:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -9442,7 +9442,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:switchMinWidth
+     * @attr name io.github.froger.instalearner.test:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -9455,7 +9455,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:switchPadding
+     * @attr name io.github.froger.instalearner.test:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -9467,7 +9467,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:switchTextAppearance
+     * @attr name io.github.froger.instalearner.test:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -9480,7 +9480,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:thumbTextPadding
+     * @attr name io.github.froger.instalearner.test:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -9491,7 +9491,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:thumbTint
+     * @attr name io.github.froger.instalearner.test:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -9512,7 +9512,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:thumbTintMode
+     * @attr name io.github.froger.instalearner.test:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -9524,7 +9524,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:track
+     * @attr name io.github.froger.instalearner.test:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -9535,7 +9535,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:trackTint
+     * @attr name io.github.froger.instalearner.test:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -9556,7 +9556,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:trackTintMode
+     * @attr name io.github.froger.instalearner.test:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -9618,22 +9618,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground io.github.froger.instamaterial.test:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart io.github.froger.instamaterial.test:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity io.github.froger.instamaterial.test:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor io.github.froger.instamaterial.test:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight io.github.froger.instamaterial.test:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth io.github.froger.instamaterial.test:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth io.github.froger.instamaterial.test:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode io.github.froger.instamaterial.test:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding io.github.froger.instamaterial.test:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom io.github.froger.instamaterial.test:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd io.github.froger.instamaterial.test:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart io.github.froger.instamaterial.test:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop io.github.froger.instamaterial.test:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor io.github.froger.instamaterial.test:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance io.github.froger.instamaterial.test:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor io.github.froger.instamaterial.test:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground io.github.froger.instalearner.test:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart io.github.froger.instalearner.test:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity io.github.froger.instalearner.test:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor io.github.froger.instalearner.test:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight io.github.froger.instalearner.test:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth io.github.froger.instalearner.test:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth io.github.froger.instalearner.test:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode io.github.froger.instalearner.test:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding io.github.froger.instalearner.test:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom io.github.froger.instalearner.test:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd io.github.froger.instalearner.test:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart io.github.froger.instalearner.test:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop io.github.froger.instalearner.test:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor io.github.froger.instalearner.test:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance io.github.froger.instalearner.test:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor io.github.froger.instalearner.test:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -9667,7 +9667,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tabBackground
+     * @attr name io.github.froger.instalearner.test:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
@@ -9680,7 +9680,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabContentStart
+     * @attr name io.github.froger.instalearner.test:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
@@ -9697,7 +9697,7 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:tabGravity
+     * @attr name io.github.froger.instalearner.test:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
@@ -9708,7 +9708,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tabIndicatorColor
+     * @attr name io.github.froger.instalearner.test:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
@@ -9721,7 +9721,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabIndicatorHeight
+     * @attr name io.github.froger.instalearner.test:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
@@ -9734,7 +9734,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabMaxWidth
+     * @attr name io.github.froger.instalearner.test:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
@@ -9747,7 +9747,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabMinWidth
+     * @attr name io.github.froger.instalearner.test:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
@@ -9764,7 +9764,7 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:tabMode
+     * @attr name io.github.froger.instalearner.test:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
@@ -9777,7 +9777,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabPadding
+     * @attr name io.github.froger.instalearner.test:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
@@ -9790,7 +9790,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabPaddingBottom
+     * @attr name io.github.froger.instalearner.test:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
@@ -9803,7 +9803,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabPaddingEnd
+     * @attr name io.github.froger.instalearner.test:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
@@ -9816,7 +9816,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabPaddingStart
+     * @attr name io.github.froger.instalearner.test:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
@@ -9829,7 +9829,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:tabPaddingTop
+     * @attr name io.github.froger.instalearner.test:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
@@ -9840,7 +9840,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tabSelectedTextColor
+     * @attr name io.github.froger.instalearner.test:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
@@ -9852,7 +9852,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tabTextAppearance
+     * @attr name io.github.froger.instalearner.test:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
@@ -9863,7 +9863,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:tabTextColor
+     * @attr name io.github.froger.instalearner.test:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -9882,7 +9882,7 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps io.github.froger.instamaterial.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps io.github.froger.instalearner.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -10029,7 +10029,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:textAllCaps
+     * @attr name io.github.froger.instalearner.test:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=9;
     /**
@@ -10041,20 +10041,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled io.github.froger.instamaterial.test:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength io.github.froger.instamaterial.test:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance io.github.froger.instamaterial.test:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance io.github.froger.instamaterial.test:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled io.github.froger.instamaterial.test:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance io.github.froger.instamaterial.test:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled io.github.froger.instamaterial.test:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled io.github.froger.instamaterial.test:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance io.github.froger.instamaterial.test:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription io.github.froger.instamaterial.test:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable io.github.froger.instamaterial.test:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled io.github.froger.instamaterial.test:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint io.github.froger.instamaterial.test:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode io.github.froger.instamaterial.test:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled io.github.froger.instalearner.test:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength io.github.froger.instalearner.test:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance io.github.froger.instalearner.test:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance io.github.froger.instalearner.test:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled io.github.froger.instalearner.test:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance io.github.froger.instalearner.test:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled io.github.froger.instalearner.test:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled io.github.froger.instalearner.test:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance io.github.froger.instalearner.test:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription io.github.froger.instalearner.test:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable io.github.froger.instalearner.test:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled io.github.froger.instalearner.test:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint io.github.froger.instalearner.test:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode io.github.froger.instalearner.test:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -10111,7 +10111,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:counterEnabled
+     * @attr name io.github.froger.instalearner.test:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
@@ -10120,7 +10120,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:counterMaxLength
+     * @attr name io.github.froger.instalearner.test:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
@@ -10132,7 +10132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:counterOverflowTextAppearance
+     * @attr name io.github.froger.instalearner.test:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
@@ -10144,7 +10144,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:counterTextAppearance
+     * @attr name io.github.froger.instalearner.test:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
@@ -10154,7 +10154,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:errorEnabled
+     * @attr name io.github.froger.instalearner.test:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
@@ -10166,7 +10166,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:errorTextAppearance
+     * @attr name io.github.froger.instalearner.test:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
@@ -10176,7 +10176,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:hintAnimationEnabled
+     * @attr name io.github.froger.instalearner.test:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
@@ -10186,7 +10186,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:hintEnabled
+     * @attr name io.github.froger.instalearner.test:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
@@ -10198,7 +10198,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:hintTextAppearance
+     * @attr name io.github.froger.instalearner.test:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
@@ -10208,7 +10208,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:passwordToggleContentDescription
+     * @attr name io.github.froger.instalearner.test:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
@@ -10220,7 +10220,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:passwordToggleDrawable
+     * @attr name io.github.froger.instalearner.test:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
@@ -10230,7 +10230,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name io.github.froger.instamaterial.test:passwordToggleEnabled
+     * @attr name io.github.froger.instalearner.test:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
@@ -10241,7 +10241,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:passwordToggleTint
+     * @attr name io.github.froger.instalearner.test:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
@@ -10261,7 +10261,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:passwordToggleTintMode
+     * @attr name io.github.froger.instalearner.test:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -10273,33 +10273,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity io.github.froger.instamaterial.test:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription io.github.froger.instamaterial.test:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon io.github.froger.instamaterial.test:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd io.github.froger.instamaterial.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions io.github.froger.instamaterial.test:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft io.github.froger.instamaterial.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight io.github.froger.instamaterial.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart io.github.froger.instamaterial.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation io.github.froger.instamaterial.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo io.github.froger.instamaterial.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription io.github.froger.instamaterial.test:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight io.github.froger.instamaterial.test:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription io.github.froger.instamaterial.test:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon io.github.froger.instamaterial.test:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme io.github.froger.instamaterial.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle io.github.froger.instamaterial.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.github.froger.instamaterial.test:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor io.github.froger.instamaterial.test:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title io.github.froger.instamaterial.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin io.github.froger.instamaterial.test:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom io.github.froger.instamaterial.test:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd io.github.froger.instamaterial.test:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart io.github.froger.instamaterial.test:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop io.github.froger.instamaterial.test:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins io.github.froger.instamaterial.test:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance io.github.froger.instamaterial.test:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor io.github.froger.instamaterial.test:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity io.github.froger.instalearner.test:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription io.github.froger.instalearner.test:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon io.github.froger.instalearner.test:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd io.github.froger.instalearner.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions io.github.froger.instalearner.test:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft io.github.froger.instalearner.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight io.github.froger.instalearner.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart io.github.froger.instalearner.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation io.github.froger.instalearner.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo io.github.froger.instalearner.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription io.github.froger.instalearner.test:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight io.github.froger.instalearner.test:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription io.github.froger.instalearner.test:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon io.github.froger.instalearner.test:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme io.github.froger.instalearner.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle io.github.froger.instalearner.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance io.github.froger.instalearner.test:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor io.github.froger.instalearner.test:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title io.github.froger.instalearner.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin io.github.froger.instalearner.test:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom io.github.froger.instalearner.test:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd io.github.froger.instalearner.test:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart io.github.froger.instalearner.test:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop io.github.froger.instalearner.test:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins io.github.froger.instalearner.test:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance io.github.froger.instalearner.test:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor io.github.froger.instalearner.test:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -10397,7 +10397,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:buttonGravity
+     * @attr name io.github.froger.instalearner.test:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -10407,7 +10407,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:collapseContentDescription
+     * @attr name io.github.froger.instalearner.test:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -10419,7 +10419,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:collapseIcon
+     * @attr name io.github.froger.instalearner.test:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -10432,7 +10432,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetEnd
+     * @attr name io.github.froger.instalearner.test:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -10445,7 +10445,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetEndWithActions
+     * @attr name io.github.froger.instalearner.test:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -10458,7 +10458,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetLeft
+     * @attr name io.github.froger.instalearner.test:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -10471,7 +10471,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetRight
+     * @attr name io.github.froger.instalearner.test:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -10484,7 +10484,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetStart
+     * @attr name io.github.froger.instalearner.test:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -10497,7 +10497,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:contentInsetStartWithNavigation
+     * @attr name io.github.froger.instalearner.test:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -10509,7 +10509,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:logo
+     * @attr name io.github.froger.instalearner.test:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -10519,7 +10519,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:logoDescription
+     * @attr name io.github.froger.instalearner.test:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
@@ -10532,7 +10532,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:maxButtonHeight
+     * @attr name io.github.froger.instalearner.test:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -10542,7 +10542,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:navigationContentDescription
+     * @attr name io.github.froger.instalearner.test:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -10554,7 +10554,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:navigationIcon
+     * @attr name io.github.froger.instalearner.test:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -10566,7 +10566,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:popupTheme
+     * @attr name io.github.froger.instalearner.test:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -10576,7 +10576,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:subtitle
+     * @attr name io.github.froger.instalearner.test:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
@@ -10588,7 +10588,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:subtitleTextAppearance
+     * @attr name io.github.froger.instalearner.test:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -10599,7 +10599,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:subtitleTextColor
+     * @attr name io.github.froger.instalearner.test:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
@@ -10609,7 +10609,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name io.github.froger.instamaterial.test:title
+     * @attr name io.github.froger.instalearner.test:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -10622,7 +10622,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMargin
+     * @attr name io.github.froger.instalearner.test:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -10635,7 +10635,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMarginBottom
+     * @attr name io.github.froger.instalearner.test:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -10648,7 +10648,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMarginEnd
+     * @attr name io.github.froger.instalearner.test:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -10661,7 +10661,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMarginStart
+     * @attr name io.github.froger.instalearner.test:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -10674,7 +10674,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMarginTop
+     * @attr name io.github.froger.instalearner.test:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -10687,7 +10687,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:titleMargins
+     * @attr name io.github.froger.instalearner.test:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
@@ -10699,7 +10699,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:titleTextAppearance
+     * @attr name io.github.froger.instalearner.test:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -10710,7 +10710,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:titleTextColor
+     * @attr name io.github.froger.instalearner.test:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -10722,9 +10722,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd io.github.froger.instamaterial.test:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart io.github.froger.instamaterial.test:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme io.github.froger.instamaterial.test:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd io.github.froger.instalearner.test:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart io.github.froger.instalearner.test:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme io.github.froger.instalearner.test:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -10744,8 +10744,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint io.github.froger.instamaterial.test:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode io.github.froger.instamaterial.test:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint io.github.froger.instalearner.test:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode io.github.froger.instalearner.test:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -10777,7 +10777,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundTint
+     * @attr name io.github.froger.instalearner.test:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -10797,7 +10797,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name io.github.froger.instamaterial.test:backgroundTintMode
+     * @attr name io.github.froger.instalearner.test:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -10886,7 +10886,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:paddingEnd
+     * @attr name io.github.froger.instalearner.test:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -10899,7 +10899,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name io.github.froger.instamaterial.test:paddingStart
+     * @attr name io.github.froger.instalearner.test:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -10911,7 +10911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name io.github.froger.instamaterial.test:theme
+     * @attr name io.github.froger.instalearner.test:theme
      */
     public static final int View_theme=4;
   }
