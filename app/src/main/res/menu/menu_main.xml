@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
     <item
+        android:title="@string/user_profile_photo"
         android:id="@+id/action_inbox"
-        android:icon="@drawable/ic_inbox_white"
-        android:title="Inbox"
+        android:icon="@drawable/img_circle_placeholder"
         app:showAsAction="always" />
 </menu>
