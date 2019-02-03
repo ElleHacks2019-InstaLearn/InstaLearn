@@ -280,12 +280,12 @@
         "source": "/Users/anupya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a5d396b0b81db23f612d5daa59886a87/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/anupya/Documents/GitHub/instalearner/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
-        "source": "/Users/anupya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a5d396b0b81db23f612d5daa59886a87/res/color-v23/abc_tint_switch_thumb.xml"
-    },
-    {
         "merged": "/Users/anupya/Documents/GitHub/InstaMaterial/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/anupya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a5d396b0b81db23f612d5daa59886a87/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/anupya/Documents/GitHub/instalearner/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "/Users/anupya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a5d396b0b81db23f612d5daa59886a87/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/Users/anupya/Documents/GitHub/instalearner/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
