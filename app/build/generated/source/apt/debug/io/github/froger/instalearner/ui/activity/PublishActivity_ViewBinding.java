@@ -11,9 +11,9 @@ import io.github.froger.instalearner.R;
 import java.lang.Override;
 
 public class PublishActivity_ViewBinding<T extends PublishActivity> extends BaseActivity_ViewBinding<T> {
-  private View view2131230902;
+  private View view2131230898;
 
-  private View view2131230901;
+  private View view2131230897;
 
   @UiThread
   public PublishActivity_ViewBinding(final T target, View source) {
@@ -22,7 +22,7 @@ public class PublishActivity_ViewBinding<T extends PublishActivity> extends Base
     View view;
     view = Utils.findRequiredView(source, R.id.tbFollowers, "field 'tbFollowers' and method 'onFollowersCheckedChange'");
     target.tbFollowers = Utils.castView(view, R.id.tbFollowers, "field 'tbFollowers'", ToggleButton.class);
-    view2131230902 = view;
+    view2131230898 = view;
     ((CompoundButton) view).setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
       @Override
       public void onCheckedChanged(CompoundButton p0, boolean p1) {
@@ -31,7 +31,7 @@ public class PublishActivity_ViewBinding<T extends PublishActivity> extends Base
     });
     view = Utils.findRequiredView(source, R.id.tbDirect, "field 'tbDirect' and method 'onDirectCheckedChange'");
     target.tbDirect = Utils.castView(view, R.id.tbDirect, "field 'tbDirect'", ToggleButton.class);
-    view2131230901 = view;
+    view2131230897 = view;
     ((CompoundButton) view).setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
       @Override
       public void onCheckedChanged(CompoundButton p0, boolean p1) {
@@ -50,9 +50,9 @@ public class PublishActivity_ViewBinding<T extends PublishActivity> extends Base
     target.tbDirect = null;
     target.ivPhoto = null;
 
-    ((CompoundButton) view2131230902).setOnCheckedChangeListener(null);
-    view2131230902 = null;
-    ((CompoundButton) view2131230901).setOnCheckedChangeListener(null);
-    view2131230901 = null;
+    ((CompoundButton) view2131230898).setOnCheckedChangeListener(null);
+    view2131230898 = null;
+    ((CompoundButton) view2131230897).setOnCheckedChangeListener(null);
+    view2131230897 = null;
   }
 }

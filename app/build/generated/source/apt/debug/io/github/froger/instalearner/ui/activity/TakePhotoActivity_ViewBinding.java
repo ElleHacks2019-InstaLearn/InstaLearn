@@ -15,7 +15,7 @@ import io.github.froger.instalearner.ui.view.RevealBackgroundView;
 import java.lang.Override;
 
 public class TakePhotoActivity_ViewBinding<T extends TakePhotoActivity> extends BaseActivity_ViewBinding<T> {
-  private View view2131230762;
+  private View view2131230761;
 
   private View view2131230750;
 
@@ -34,7 +34,7 @@ public class TakePhotoActivity_ViewBinding<T extends TakePhotoActivity> extends 
     target.rvFilters = Utils.findRequiredViewAsType(source, R.id.rvFilters, "field 'rvFilters'", RecyclerView.class);
     view = Utils.findRequiredView(source, R.id.btnTakePhoto, "field 'btnTakePhoto' and method 'onTakePhotoClick'");
     target.btnTakePhoto = Utils.castView(view, R.id.btnTakePhoto, "field 'btnTakePhoto'", Button.class);
-    view2131230762 = view;
+    view2131230761 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -66,8 +66,8 @@ public class TakePhotoActivity_ViewBinding<T extends TakePhotoActivity> extends 
     target.rvFilters = null;
     target.btnTakePhoto = null;
 
-    view2131230762.setOnClickListener(null);
-    view2131230762 = null;
+    view2131230761.setOnClickListener(null);
+    view2131230761 = null;
     view2131230750.setOnClickListener(null);
     view2131230750 = null;
   }

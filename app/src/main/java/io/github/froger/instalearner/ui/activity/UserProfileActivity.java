@@ -39,7 +39,7 @@ public class UserProfileActivity extends BaseDrawerActivity implements RevealBac
     ImageView ivUserProfilePhoto;
     @BindView(R.id.vUserDetails)
     View vUserDetails;
-    @BindView(R.id.btnFollow)
+    //@BindView(R.id.btnFollow)
     Button btnFollow;
     @BindView(R.id.vUserStats)
     View vUserStats;

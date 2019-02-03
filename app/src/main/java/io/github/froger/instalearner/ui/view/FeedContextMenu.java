@@ -10,9 +10,6 @@ import butterknife.OnClick;
 import io.github.froger.instalearner.R;
 import io.github.froger.instalearner.Utils;
 
-/**
- * Created by froger_mcs on 15.12.14.
- */
 public class FeedContextMenu extends LinearLayout {
     private static final int CONTEXT_MENU_WIDTH = Utils.dpToPx(240);
 

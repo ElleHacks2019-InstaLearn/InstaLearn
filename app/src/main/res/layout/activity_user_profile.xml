@@ -71,25 +71,25 @@
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:text="John Smith"
+                                android:text="Rachel Leung"
                                 android:textColor="#ffffff"
                                 android:textSize="24sp" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:text="\@jsmith"
+                                android:text="\@rleung"
                                 android:textColor="#bbbbbb"
                                 android:textSize="12sp" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:text="Mobile development passionate."
+                                android:text="Loves learning about biology and cooking"
                                 android:textColor="#ffffff"
                                 android:textSize="12sp" />
 
-                            <Button
+                            <!--<Button
                                 android:id="@+id/btnFollow"
                                 android:layout_width="match_parent"
                                 android:layout_height="24dp"
@@ -98,7 +98,7 @@
                                 android:background="@drawable/btn_following"
                                 android:text="following"
                                 android:textColor="#ffffff"
-                                android:textSize="12sp" />
+                                android:textSize="12sp" />-->
 
                         </LinearLayout>
                     </LinearLayout>

@@ -14,9 +14,9 @@ import java.lang.Override;
 public class FeedContextMenu_ViewBinding<T extends FeedContextMenu> implements Unbinder {
   protected T target;
 
-  private View view2131230759;
+  private View view2131230758;
 
-  private View view2131230761;
+  private View view2131230760;
 
   private View view2131230754;
 
@@ -28,7 +28,7 @@ public class FeedContextMenu_ViewBinding<T extends FeedContextMenu> implements U
 
     View view;
     view = Utils.findRequiredView(source, R.id.btnReport, "method 'onReportClick'");
-    view2131230759 = view;
+    view2131230758 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -36,7 +36,7 @@ public class FeedContextMenu_ViewBinding<T extends FeedContextMenu> implements U
       }
     });
     view = Utils.findRequiredView(source, R.id.btnSharePhoto, "method 'onSharePhotoClick'");
-    view2131230761 = view;
+    view2131230760 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -66,10 +66,10 @@ public class FeedContextMenu_ViewBinding<T extends FeedContextMenu> implements U
   public void unbind() {
     if (this.target == null) throw new IllegalStateException("Bindings already cleared.");
 
-    view2131230759.setOnClickListener(null);
-    view2131230759 = null;
-    view2131230761.setOnClickListener(null);
-    view2131230761 = null;
+    view2131230758.setOnClickListener(null);
+    view2131230758 = null;
+    view2131230760.setOnClickListener(null);
+    view2131230760 = null;
     view2131230754.setOnClickListener(null);
     view2131230754 = null;
     view2131230752.setOnClickListener(null);
