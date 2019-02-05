@@ -3,6 +3,8 @@ An Instagram for educators and learners. Built for ElleHacks 2019.
 
 <img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/logo1.png" alt="alt text" width="150" height="150">
 
+[![HitCount](http://hits.dwyl.com/ElleHacks2019-InstaLearn/InstaLearn.svg)](http://hits.dwyl.com/ElleHacks2019-InstaLearn/InstaLearn) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Problem
 As millennials, we learn Math, Science, History and pretty much most things from online sources like YouTube, Khan Academy, Udemy, Coursera, etc. However, we noticed that these videos tend to be super long and we often lack the attention span to absorb the information.
 
