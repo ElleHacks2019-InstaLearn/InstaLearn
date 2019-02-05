@@ -1,6 +1,8 @@
 # InstaLearn
 An Instagram for educators and learners. Built for ElleHacks 2019.
 
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/logo1.png" alt="alt text" width="150" height="150">
+
 ## Problem
 As millennials, we learn Math, Science, History and pretty much most things from online sources like YouTube, Khan Academy, Udemy, Coursera, etc. However, we noticed that these videos tend to be super long and we often lack the attention span to absorb the information.
 
@@ -17,5 +19,8 @@ We built the backend and frontend using Android Studio and Java. We used InVisio
 Clone this repo to your machine and open instalearner in Android Studio. Build. Run.
 
 ## Screenshots
-
-
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/feed1.jpg" alt="alt text" width="285" height="600">
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/feed2.jpg" alt="alt text" width="285" height="600">
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/userprofile.jpg" alt="alt text" width="285" height="600">
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/usersidebar.jpg" alt="alt text" width="285" height="600">
+<img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/logoinphone.jpg" alt="alt text" width="285" height="600">
